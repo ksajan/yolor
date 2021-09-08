@@ -1,6 +1,6 @@
-train: ../input/image-identification/train.txt
-val: ../input/image-identification/valid.txt
-test: ../input/image-identification/test.txt
+train: ../input/imageidentification/basic_data/train.txt
+val: ../input/imageidentification/basic_data/valid.txt
+test: ../input/imageidentification/basic_data/test.txt
 
 nc: 6
 names: ['people', 'bicycle', 'motorbike', 'boat', 'cat', 'table']
